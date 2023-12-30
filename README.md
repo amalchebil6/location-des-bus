@@ -27,7 +27,7 @@
 ![ficher reservation apres avoir reserver un bus](https://github.com/amalchebil6/location-des-bus/assets/155232575/d165ad89-51f7-433b-a030-ade879c27982)
 Cas de demander de réserver un bus déjà reservé a cette date!
 ![cas de demander de reserver un bus déja reservé a la date donnée](https://github.com/amalchebil6/location-des-bus/assets/155232575/a79a8074-b8eb-4747-a92f-a0e4719d2e84)
-# 4-Annuler une reservation
+# 4-Annulation une reservation
 ![annuler une reservation](https://github.com/amalchebil6/location-des-bus/assets/155232575/9ca4c6e0-7d68-4e97-80d8-f1aa92a0f71c)
 
 ![fichier reservation apres l'annulation](https://github.com/amalchebil6/location-des-bus/assets/155232575/d656c838-f1f3-4f77-841a-871b16d98e65)
