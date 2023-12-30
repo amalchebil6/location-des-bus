@@ -1,4 +1,5 @@
 # Location-des-bus
+E-Bus est une simple application cmd , écrite en langage C, assure la réservation d’un bus pour faire un voyage. Elle permet de gérer les bus, les réservations.
 ![location des bus](https://github.com/amalchebil6/location-des-bus/assets/155232575/bc3c22c6-f5a4-4234-ac6c-a8add640bf23)
 # 1-Getion-de-bus
 # Ajout d'un bus
