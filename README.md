@@ -19,7 +19,7 @@
 ![recherche d'un bus](https://github.com/amalchebil6/location-des-bus/assets/155232575/08cfd0f6-1d2c-4b01-ac8d-fded2bfa6c4b)
 # Retour aux commandes initiales
 ![retour aux commandes initiales](https://github.com/amalchebil6/location-des-bus/assets/155232575/0548c097-d43f-4582-8dee-1dae39045946)
-# 2-Affichage de bus
+# 2-Affichage des bus
 ![afficher les bus](https://github.com/amalchebil6/location-des-bus/assets/155232575/949e036f-74af-4a91-b3dc-7572b2cf2f4b)
 # 3-Creation d'une reservation
 ![creer une reservation](https://github.com/amalchebil6/location-des-bus/assets/155232575/027a4624-0517-4c89-ad0d-d3e4da52ee23)
