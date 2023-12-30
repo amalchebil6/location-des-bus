@@ -17,6 +17,8 @@
 ![fichier stock apres modification](https://github.com/amalchebil6/location-des-bus/assets/155232575/b47fa482-8474-4bf4-afc2-364970031e92)
 # Recherche d'un bus
 ![recherche d'un bus](https://github.com/amalchebil6/location-des-bus/assets/155232575/08cfd0f6-1d2c-4b01-ac8d-fded2bfa6c4b)
+# Retour aux commandes principales
+![retour aux commandes initiales](https://github.com/amalchebil6/location-des-bus/assets/155232575/68975b40-f819-4b26-8e36-22dc203fd7ef)
 # 2-Affichage de bus
 ![afficher les bus](https://github.com/amalchebil6/location-des-bus/assets/155232575/949e036f-74af-4a91-b3dc-7572b2cf2f4b)
 # 3-Creeation d'une reservation
@@ -26,6 +28,15 @@
 Cas de demander de réserver un bus déjà reservé a cette date!
 ![cas de demander de reserver un bus déja reservé a la date donnée](https://github.com/amalchebil6/location-des-bus/assets/155232575/a79a8074-b8eb-4747-a92f-a0e4719d2e84)
 # 4-Annuler une reservation
+![annuler une reservation](https://github.com/amalchebil6/location-des-bus/assets/155232575/a53bb239-5929-47ae-929e-fb62ce1d10ef)
+
+![fichier reservation apres l'annulation](https://github.com/amalchebil6/location-des-bus/assets/155232575/49e1b415-e406-4362-9ec7-bd220372ef5d)
+Cas de demander d'annuler une reservation introuvable!
+![cas d'annuler une reservation introuvable](https://github.com/amalchebil6/location-des-bus/assets/155232575/59c1ed73-00ed-4b57-80e6-f60dff38018d)
+# 5-Quitter
+![quitter](https://github.com/amalchebil6/location-des-bus/assets/155232575/dec54151-6b2e-4367-8075-8952e559cd6b)
+
+
 
 
 
